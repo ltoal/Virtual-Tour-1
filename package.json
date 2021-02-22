@@ -1,0 +1,25 @@
+{
+  "name": "Virtual-Tour-React-360",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clientjs": "^0.1.11",
+    "express": "^4.17.1",
+    "html": "^1.0.0",
+    "react": "^17.0.1",
+    "react-360": "^1.1.0",
+    "react-360-cli": "^1.1.0",
+    "react-360-web": "^1.1.0",
+    "react-dom": "^17.0.1",
+    "react-native": "^0.63.4",
+    "react-test-renderer": "^17.0.1"
+  }
+}
